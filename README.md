@@ -1,1 +1,1 @@
-#Calculator two numbers
+#Calculadora de don numero con las operaciones basicas: +, -, * y /.
